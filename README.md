@@ -1,14 +1,22 @@
 # Capstone_Project_Vishnu
 # Fake News Detection Using Machine Learning
 What Problem Did I Try to Solve?
-![image](https://github.com/user-attachments/assets/892920a1-d305-448d-85f5-12837b30390c)
 
 1. Fake news detection refers to using machine learning algorithms to classify news articles as real or fake, addressing the widespread issue of misinformation on digital platforms
 2. Reducing Manual VerificationThe goal was to automate the news verification process, so fake news can be flagged quickly before it spreads — without depending only on human fact-checkers.
-![image](https://github.com/user-attachments/assets/ca360d13-16fc-46a6-b4a2-ac1df0230c7a)
 
 
 This repository contains code, analysis and a simple GUI for classifying U.S. political news headlines as *fake* or *real* using machine learning and deep learning methods.
+
+Why Is This Project Important?
+ Social Impact & Trust: Fake news can influence public opinion, disrupt democratic processes, and incite panic or violence, making reliable detection crucial to maintain societal trust and safety.
+Industry Relevance: Social media platforms, news agencies, and cybersecurity firms require automated solutions to moderate content at scale and protect users from disinformation.
+
+Who are the stakeholders or target audience?
+Digital Platforms & Media Companies
+General Public & Policymakers
+
+
 
 ## Table of Contents
 
