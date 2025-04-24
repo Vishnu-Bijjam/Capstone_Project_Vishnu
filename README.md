@@ -25,10 +25,7 @@ General Public & Policymakers
 - [Modeling](#modeling)  
 - [Results](#results)  
 - [Explainability](#explainability)  
-- [GUI](#gui)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [License](#license)  
+- [GUI](#gui)    
 
 ---
 
