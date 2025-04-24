@@ -72,7 +72,6 @@ All models were evaluated on a 70/30 train/test split.
 |-------------------------|---------:|
 | Logistic Regression     |    96.7% |
 | SVM (linear)            |    97.3% |
-| Random Forest           |    95.2% |
 | *CNN (Conv1D)*        |  *98.7%* |
 | LSTM                    |    51.0% |
 
