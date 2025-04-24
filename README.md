@@ -95,6 +95,7 @@ A simple *Tkinter* application wraps the trained CNN:
 - Paste or type a headline/text.  
 - Click *Classify* → shows *Fake/Real* with percentage.  
 - Click *Explain (LIME)* → displays top token attributions.
+
 To Interact with GUI you need to run capstone_vishnu.ipynb file
 
 
