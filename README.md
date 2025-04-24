@@ -89,9 +89,6 @@ All models were evaluated on a 70/30 train/test split.
 - *LIME*  
   - Local, per-sample feature attributions.  
   - Interactive HTML widget (probability bars, weight bars, highlighted text).  
-- *SHAP*  
-  - KernelExplainer for token-level contributions.  
-  - Top-10 tokens displayed in the GUI.
 
 ---
 
@@ -101,7 +98,7 @@ A simple *Tkinter* application wraps the trained CNN:
 
 - Paste or type a headline/text.  
 - Click *Classify* → shows *Fake/Real* with percentage.  
-- Click *Explain (SHAP)* → displays top token attributions.
+- Click *Explain (LIME)* → displays top token attributions.
 
 
 
