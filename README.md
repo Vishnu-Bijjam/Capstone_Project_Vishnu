@@ -1,5 +1,5 @@
 # Capstone_Project_Vishnu
-# Fake News Detection Using Machine Learning
+# Fake News Detection Using Machine Learning and Deep Learning
 What Problem Did I Try to Solve?
 
 1. Fake news detection refers to using machine learning algorithms to classify news articles as real or fake, addressing the widespread issue of misinformation on digital platforms
