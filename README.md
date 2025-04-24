@@ -34,7 +34,7 @@ General Public & Policymakers
 
 ## Dataset
 
-- *Source*: Kaggle  
+- *Source*: Kaggle (https://www.kaggle.com/datasets/nitishjolly/news-detection-fake-or-real-dataset)
 - *File*: fake_and_real_news.csv  
 - *Size*: ~10 000 headlines (balanced between “FAKE” and “REAL”)  
 - *Columns*:  
