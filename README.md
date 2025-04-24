@@ -3,7 +3,7 @@
 What Problem Did I Try to Solve?
 
 1. Fake news detection refers to using machine learning algorithms to classify news articles as real or fake, addressing the widespread issue of misinformation on digital platforms
-2. Reducing Manual VerificationThe goal was to automate the news verification process, so fake news can be flagged quickly before it spreads — without depending only on human fact-checkers.
+2. Reducing Manual Verification:The goal was to automate the news verification process, so fake news can be flagged quickly before it spreads — without depending only on human fact-checkers.
 
 
 This repository contains code, analysis and a simple GUI for classifying U.S. political news headlines as *fake* or *real* using machine learning and deep learning methods.
